@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.6"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
+  }
+}
